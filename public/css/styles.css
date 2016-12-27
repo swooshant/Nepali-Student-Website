@@ -1,0 +1,26 @@
+body{
+  width: 100%;
+  height: 100%;
+}
+
+
+.parallax-container {
+  min-height: 200px;
+  line-height: 0;
+  max-height: 450px;
+  height: auto;
+  color: rgba(255,255,255,.9);
+  width: 100%;
+}
+
+p {
+	line-height: 2rem;
+}
+
+.slider{
+  height: 700px;
+}
+
+/*.aboutUs {
+	background-color: white;
+}*/
