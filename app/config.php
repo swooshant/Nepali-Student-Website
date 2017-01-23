@@ -2,7 +2,7 @@
 
 // path constants
 define('SYSTEM_PATH', dirname(__FILE__)); # location of 'app' folder - don't change
-define('BASE_URL','http://ec2-35-165-86-92.us-west-2.compute.amazonaws.com');
+define('BASE_URL','http://ec2-52-11-184-46.us-west-2.compute.amazonaws.com');
 
 // database constants
 // define('DB_HOST','127.0.0.1');
