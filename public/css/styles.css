@@ -95,9 +95,13 @@ svg{
   width: 100px;
 }*/
 
-/*.card.medium{
-  height: 400px !important;
-}*/
+.card.medium{
+  height: 415px !important;
+}
+
+.info{
+  color: #263238 ;
+}
 
 /*.aboutUs {
 	background-color: white;

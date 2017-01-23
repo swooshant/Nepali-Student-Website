@@ -9,12 +9,12 @@
           <img class="activator" style="margin-left: auto; margin-right: auto;" src="<?= BASE_URL ?>/public/img/BikalP.jpg">
         </div>
         <div class="card-content activator">
-        <span class="hoverable card-title activator grey-text text-darken-4">President: Bikal Poudel<i class="material-icons right">more_vert</i></span>
-        <br><span class="activator">Click anywhere for more info about him! </span>
+        <span class="card-title activator grey-text text-darken-4">President<i class="material-icons right">more_vert</i></span>
+        <br><span class="info info activator">Click anywhere for more info about him! </span>
         </div>
         <div class="card-action">
-          <a style="color: #3B5998" href="#" > Contact Me on Facebook! </a>
-          <h7 style="color: #660000" > Email Me At: bikal2@vt.edu </h7>
+          <a style="color: #3B5998" href="#" >Contact Me on Facebook!</a>
+          <h7 style="color: #660000" ><br>Email: bikal2@vt.edu </h7>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">President: Bikal Poudel<i class="material-icons right">close</i></span>
@@ -29,12 +29,12 @@
           <img class="activator" style="margin-left: auto; margin-right: auto;" src="<?= BASE_URL ?>/public/img/AgrimaP.jpg">
         </div>
         <div class="card-content activator">
-        <span class="hoverable card-title activator grey-text text-darken-4">Vice President: Agrima Poudel<i class="material-icons right">more_vert</i></span>
-        <br><span class="activator">Click anywhere for more info about her! </span>
+        <span class="card-title activator grey-text text-darken-4">Vice President<i class="material-icons right">more_vert</i></span>
+        <br><span class="info activator">Click anywhere for more info about her! </span>
         </div>
         <div class="card-action">
-          <a style="color: #3B5998" href="#" > Contact Me on Facebook! </a>
-          <h7 style="color: #660000" > Email Me At: pagrima@vt.edu </h7>
+          <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+          <h7 style="color: #660000" ><br>Email: pagrima@vt.edu </h7>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Vice President: Agrima Poudel<i class="material-icons right">close</i></span>
@@ -49,12 +49,12 @@
           <img class="activator" style="margin-left: auto; margin-right: auto;" src="<?= BASE_URL ?>/public/img/SushantB.jpg">
         </div>
         <div class="card-content activator">
-        <span class="hoverable card-title activator grey-text text-darken-4">Web Admin: Sushant Bhattarai<i class="material-icons right">more_vert</i></span>
-        <br><span class="activator">Click anywhere for more info about him! </span>
+        <span class="card-title activator grey-text text-darken-4">Web Admin<i class="material-icons right">more_vert</i></span>
+        <br><span class="info activator">Click anywhere for more info about him! </span>
         </div>
         <div class="card-action">
-          <a style="color: #3B5998" href="#" > Contact Me on Facebook! </a>
-          <h7 style="color: #660000" > Email Me At: sushantb@vt.edu </h7>
+          <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+          <h7 style="color: #660000" ><br>Email: sushantb@vt.edu </h7>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Web Admin: Sushant Bhattarai<i class="material-icons right">close</i></span>
@@ -73,12 +73,12 @@
             <img class="activator" style="margin-left: auto; margin-right: auto;" src="<?= BASE_URL ?>/public/img/NishantG.jpg">
           </div>
           <div class="card-content activator">
-          <span class="hoverable card-title activator grey-text text-darken-4">Historian: Nishant Gnawali<i class="material-icons right">more_vert</i></span>
-          <br><span class="activator">Click anywhere for more info about him! </span>
+          <span class="card-title activator grey-text text-darken-4">Historian<i class="material-icons right">more_vert</i></span>
+          <br><span class="info activator">Click anywhere for more info about him! </span>
           </div>
           <div class="card-action">
-            <a style="color: #3B5998" href="#" > Contact Me on Facebook! </a>
-            <h7 style="color: #660000" > Email Me At: gnawalin@vt.edu </h7>
+            <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+            <h7 style="color: #660000" ><br>Email: gnawalin@vt.edu </h7>
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Historian: Nishant Gnawali<i class="material-icons right">close</i></span>
@@ -93,12 +93,12 @@
               <img class="activator" style="margin-left: auto; margin-right: auto;" src="<?= BASE_URL ?>/public/img/SuskritiD.jpg">
             </div>
             <div class="card-content activator">
-            <span class="hoverable card-title activator grey-text text-darken-4">Secretary: Suskriti Dixit<i class="material-icons right">more_vert</i></span>
-            <br><span class="activator">Click anywhere for more info about her! </span>
+            <span class="card-title activator grey-text text-darken-4">Secretary<i class="material-icons right">more_vert</i></span>
+            <br><span class="info activator">Click anywhere for more info about her! </span>
             </div>
             <div class="card-action">
-              <a style="color: #3B5998" href="#" > Contact Me on Facebook! </a>
-              <h7 style="color: #660000" >Email Me At: suskriti@vt.edu</h7>
+              <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+              <h7 style="color: #660000" ><br>Email: suskriti@vt.edu</h7>
             </div>
             <div class="card-reveal">
               <span class="card-title grey-text text-darken-4">Secretary: Suskriti Dixit<i class="material-icons right">close</i></span>
@@ -113,12 +113,12 @@
               <img class="activator" style="margin-left: auto; margin-right: auto;" src="<?= BASE_URL ?>/public/img/AnujaM.jpg">
             </div>
             <div class="card-content activator">
-            <span class="hoverable card-title activator grey-text text-darken-4">Treasurer: Anuja Mishra<i class="material-icons right">more_vert</i></span>
-            <br><span class="activator">Click anywhere for more info about her! </span>
+            <span class="card-title activator grey-text text-darken-4">Treasurer<i class="material-icons right">more_vert</i></span>
+            <br><span class="info activator">Click anywhere for more info about her! </span>
             </div>
             <div class="card-action">
-              <a style="color: #3B5998" href="#" > Contact Me on Facebook! </a>
-              <h7 style="color: #660000" > Email Me At: anuja@vt.edu </h7>
+              <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+              <h7 style="color: #660000" ><br>Email: anuja@vt.edu </h7>
             </div>
             <div class="card-reveal">
               <span class="card-title grey-text text-darken-4">Treasurer: Anuja Mishra<i class="material-icons right">close</i></span>
@@ -134,12 +134,12 @@
                 <img class="activator" style="margin-left: auto; margin-right: auto;" src="<?= BASE_URL ?>/public/img/SmritiK.jpg">
               </div>
               <div class="card-content activator">
-              <span class="hoverable card-title activator grey-text text-darken-4">Event Coordinator: Smriti Kandel<i class="material-icons right">more_vert</i></span>
-              <br><span class="activator">Click anywhere for more info about her! </span>
+              <span class="card-title activator grey-text text-darken-4">Event Coordinator<i class="material-icons right">more_vert</i></span>
+              <br><span class="info activator">Click anywhere for more info about her! </span>
               </div>
               <div class="card-action">
-                <a style="color: #3B5998" href="#" > Contact Me on Facebook! </a>
-                <h7 style="color: #660000" >Email Me At: ksmri95@vt.edu</h7>
+                <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+                <h7 style="color: #660000" ><br>Email: ksmri95@vt.edu</h7>
               </div>
               <div class="card-reveal">
                 <span class="card-title grey-text text-darken-4">Event Coordinator: Smriti Kandel<i class="material-icons right">close</i></span>
@@ -155,16 +155,16 @@
                 <img class="activator" style="margin-left: auto; margin-right: auto;" src="<?= BASE_URL ?>/public/img/AlokB.jpg">
               </div>
               <div class="card-content activator">
-              <span class="hoverable card-title activator grey-text text-darken-4">Public Relations: Alok Baral<i class="material-icons right">more_vert</i></span>
-              <br><span class="activator">Click anywhere for more info about her! </span>
+              <span class="card-title activator grey-text text-darken-4">Public Relations<i class="material-icons right">more_vert</i></span>
+              <br><span class="info activator">Click anywhere for more info about her! </span>
               </div>
               <div class="card-action">
-                <a style="color: #3B5998" href="#" > Contact Me on Facebook! </a>
-                <h7 style="color: #660000" > Email Me At: alok96@vt.edu </h7>
+                <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+                <h7 style="color: #660000" ><br>Email: alok96@vt.edu </h7>
               </div>
               <div class="card-reveal">
                 <span class="card-title grey-text text-darken-4">Public Relations: Alok Baral<i class="material-icons right">close</i></span>
-                <p> Alok B </p>
+                <p>Alok Baral is a junior at Virginia tech, who is planning on majoring in biological sciences and is currently part of Virginia Tech honors program. After doing some volunteering work at a small health center in Nepal, he decided to pursue a career in medicine. He hopes to attend medical school after graduation. Alok is an active member of Delta Epsilon Mu and a Resident Advisor at Main Campbell. In his free time, he loves to listen to music, volunteer, cook, and watch Netflix. He is open-minded and always eager to meet new people. If you have any questions please don't hesitate to contact me.</p>
               </div>
             </div>
           </div>
