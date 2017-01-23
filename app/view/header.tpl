@@ -20,24 +20,27 @@
 	<body class="blue-grey lighten-5">
 	<!-- Compiled and minified JavaScript -->
   		
-		
+	<div class="navbar-fixed">
 		<nav id="nav" >
-		   <div class="nav-wrapper container">
-		     <a href="#!" class="brand-logo flow-text blue-grey-text text-darken-4" style="margin-left:10px ">Logo</a>
-		     <a href="#" data-activates="mobile" class="button-collapse blue-grey-text text-darken-4 "><i class="material-icons">menu</i></a>
+		   <div class="nav-wrapper container ">
+		     <a href="<?= BASE_URL ?>" class="brand-logo flow-text white-text lighten-5" style="margin-left:10px ">Logo</a>
+		     <a href="#" data-activates="mobile" class="button-collapse grey lighten-5 text-darken-4 "><i class="material-icons">menu</i></a>
 		     <ul class="right hide-on-med-and-down ">
-		       <li><a class="blue-grey-text text-darken-4" href="<?= BASE_URL ?>/">Home</a></li>
-		       <li><a class="blue-grey-text text-darken-4" href="<?= BASE_URL ?>/officers">Officers</a></li>
-		       <li><a class="blue-grey-text text-darken-4" href="#!">Members</a></li>
-		       <li><a class="blue-grey-text text-darken-4" href="<?= BASE_URL ?>/faculty">Faculty Advisor</a></li>
+		       <li><a class="white-text lighten-5 " href="<?= BASE_URL ?>/">Home</a></li>
+		       <li><a class="white-text lighten-5 " href="<?= BASE_URL ?>/officers">Officers</a></li>
+		       <li><a class="white-text lighten-5 " href="#!">Members</a></li>
+		       <li><a class="white-text lighten-5 " href="<?= BASE_URL ?>/faculty">Faculty Advisor</a></li>
+		       <li><a class="white-text lighten-5 " href="<?= BASE_URL ?>/visit">Visit Nepal</a></li>
 		     </ul>
-		     <ul class="side-nav" id="mobile">
+		     <ul class="side-nav" id="mobile" >
 		       <li><a class="waves-red" href="<?= BASE_URL ?>/">Home</a></li>
 		       <li><a class="waves-red" href="<?= BASE_URL ?>/officers">Officers</a></li>
 		       <li><a class="waves-red" href="#!">Members</a></li>
 		       <li><a class="waves-red" href="<?= BASE_URL ?>/faculty">Faculty Advisor</a></li>
+		       <li><a class="waves-red" href="<?= BASE_URL ?>/visit">Visit Nepal</a></li>
 		     </ul>
 		   </div>
 		 </nav>
+	</div>
 
 

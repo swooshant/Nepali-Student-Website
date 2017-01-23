@@ -4,7 +4,7 @@
 
 
 <div class="parallax-container">
-     <div class="parallax"><img src="<?= BASE_URL ?>/public/img/nepal.jpg"></div>
+     <div class="parallax"><img src="<?= BASE_URL ?>/public/img/nepalParallax.jpg"></div>
 </div>
 
 <div class="aboutUs container">
@@ -20,10 +20,14 @@
 	</div>
 </div>
 
-<div id="nepalMap" class="container" style="margin-top: -20px;">
-	<h4 class="center-align" style="margin-bottom: 5px;">Where is Nepal?</h4>
-	<div id="mapContainer" style="width: 100%; height: 100%;"></div>
-</div>	
+<div class="section">
+  <div class="row">
+    <div id="nepalMap" class="container" >
+     <h4 class="center-align">Where is Nepal?</h4>
+     <div id="mapContainer"></div>
+   </div>	
+ </div>
+</div>
 
 <script>
 
@@ -38,7 +42,7 @@
 
 	map.updateChoropleth({
    		// NPL: '#FF1493'
-      NPL: '#0000FF'
+      NPL: '#0091ea'
 	});
 
 	// Alternatively with d3
@@ -49,30 +53,30 @@
 </script>
 
  <div class="slider">
-    <ul class="slides">
+    <ul class="slides center-align">
       <li>
-        <img src="http://lorempixel.com/580/250/nature/1"> <!-- random image -->
+        <img  src="<?= BASE_URL ?>/public/img/nsarun.jpg"> <!-- random image -->
         <div class="caption center-align">
           <h3>This is our big Tagline!</h3>
           <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
         </div>
       </li>
       <li>
-        <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
+        <img  src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
         <div class="caption left-align">
           <h3>Left Aligned Caption</h3>
           <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
         </div>
       </li>
       <li>
-        <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
+        <img  src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
         <div class="caption right-align">
           <h3>Right Aligned Caption</h3>
           <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
         </div>
       </li>
       <li>
-        <img src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
+        <img  src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
         <div class="caption center-align">
           <h3>This is our big Tagline!</h3>
           <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
@@ -80,3 +84,4 @@
       </li>
     </ul>
   </div>
+ 

@@ -11,7 +11,7 @@ $(document).ready(function(){
 
 	$('.slider').slider({
 						full_width: true,
-						height: 450,
+						height: 500,
 						});
 	$('.slider').slider('start');
 
