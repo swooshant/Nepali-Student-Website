@@ -13,12 +13,12 @@
         <br><span class="info info activator">Click anywhere for more info about him! </span>
         </div>
         <div class="card-action">
-          <a style="color: #3B5998" href="#" >Contact Me on Facebook!</a>
+          <a class="facebookContact" style="color: #3B5998" href="#" >Contact Me on Facebook!</a>
           <h7 style="color: #660000" ><br>Email: bikal2@vt.edu </h7>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">President: Bikal Poudel<i class="material-icons right">close</i></span>
-          <p> BIKAL P </p>
+          <p> Hello I am BIKAL P and I am the gay</p>
         </div>
       </div>
     </div>
@@ -30,10 +30,10 @@
         </div>
         <div class="card-content activator">
         <span class="card-title activator grey-text text-darken-4">Vice President<i class="material-icons right">more_vert</i></span>
-        <br><span class="info activator">Click anywhere for more info about her! </span>
+        <br><span class="info activator">Click anywhere for more info about her!</span>
         </div>
         <div class="card-action">
-          <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+          <a class="facebookContact" style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
           <h7 style="color: #660000" ><br>Email: pagrima@vt.edu </h7>
         </div>
         <div class="card-reveal">
@@ -50,15 +50,16 @@
         </div>
         <div class="card-content activator">
         <span class="card-title activator grey-text text-darken-4">Web Admin<i class="material-icons right">more_vert</i></span>
-        <br><span class="info activator">Click anywhere for more info about him! </span>
+        <br><span class="info activator">Click anywhere for more info about him!</span>
         </div>
         <div class="card-action">
-          <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+          <a class="facebookContact" style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
           <h7 style="color: #660000" ><br>Email: sushantb@vt.edu </h7>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Web Admin: Sushant Bhattarai<i class="material-icons right">close</i></span>
-          <p> Sushantee </p>
+          <p>Sushant Bhattarai is a senior in Computer Engineering. He is from Chantilly, VA (NOVA) where he has lived for most of his life. He came to Virginia Tech in 2013 after graduating from Chantilly High School. In his free time he likes to play sports such as soccer and football. Apart from sports he likes doing home DIY projects like home automation, servers, and more. He also really likes to listen to music and watch travel shows. His favorite TV shows include Game of Thrones, South Park, Breaking Bad, Man vs. Food, and Anthony Bourdain Parts Unknown. Sushant plans to get a job right out of undergrad and wait a few years before going back to school for an MBA. After getting an MBA, he hopes to start his own company.
+          </p>
         </div>
       </div>
     </div>
@@ -77,12 +78,13 @@
           <br><span class="info activator">Click anywhere for more info about him! </span>
           </div>
           <div class="card-action">
-            <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+            <a class="facebookContact" style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
             <h7 style="color: #660000" ><br>Email: gnawalin@vt.edu </h7>
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Historian: Nishant Gnawali<i class="material-icons right">close</i></span>
-            <p> NISHANTEEE </p>
+            <p>Nishant is a sophomore honors student currently studying Computer Engineering with a Computer Science minor. He is from Manassas, Virginia where he has lived for two years. Prior to that he lived and grew up in Blacksburg, Virginia where he lived for a decade. In his free time he likes to partake in outdoor activities and is a big fan of hiking and the outdoors in general. Nishant also likes to play soccer in the Drillfield, play video games, and hang out with friends. After graduating with a Bachelor's degree he plans on working in the industry for a few years then going to graduate school for an MBA.
+            </p>
           </div>
         </div>
       </div>
@@ -97,7 +99,7 @@
             <br><span class="info activator">Click anywhere for more info about her! </span>
             </div>
             <div class="card-action">
-              <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+              <a class="facebookContact" style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
               <h7 style="color: #660000" ><br>Email: suskriti@vt.edu</h7>
             </div>
             <div class="card-reveal">
@@ -117,12 +119,13 @@
             <br><span class="info activator">Click anywhere for more info about her! </span>
             </div>
             <div class="card-action">
-              <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+              <a class="facebookContact" style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
               <h7 style="color: #660000" ><br>Email: anuja@vt.edu </h7>
             </div>
             <div class="card-reveal">
               <span class="card-title grey-text text-darken-4">Treasurer: Anuja Mishra<i class="material-icons right">close</i></span>
-              <p> Anuja </p>
+              <p>Anuja Mishra is a junior at Virginia tech majoring in Business Info. Technology with a concentration in Decision Support System and Operations Supply Management. She graduated from Blacksburg High School with advanced diploma in June 2014. She is a fun loving person who likes to get involved in extra-curricular and outdoor activities. She serves as a VP of Recruiting for Association of Latino Professionals of America and is an active member of BIT club. After graduation, she plans to get a job and wait a few years before heading to grad school. In her free time, she likes to dance, hike, listen to music, watch Netflix and meet new people.
+              </p>
             </div>
           </div>
         </div>
@@ -138,7 +141,7 @@
               <br><span class="info activator">Click anywhere for more info about her! </span>
               </div>
               <div class="card-action">
-                <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+                <a class="facebookContact" style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
                 <h7 style="color: #660000" ><br>Email: ksmri95@vt.edu</h7>
               </div>
               <div class="card-reveal">
@@ -156,10 +159,10 @@
               </div>
               <div class="card-content activator">
               <span class="card-title activator grey-text text-darken-4">Public Relations<i class="material-icons right">more_vert</i></span>
-              <br><span class="info activator">Click anywhere for more info about her! </span>
+              <br><span class="info activator">Click anywhere for more info about him! </span>
               </div>
               <div class="card-action">
-                <a style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
+                <a class="facebookContact" style="color: #3B5998" href="#" >Contact Me on Facebook! </a>
                 <h7 style="color: #660000" ><br>Email: alok96@vt.edu </h7>
               </div>
               <div class="card-reveal">

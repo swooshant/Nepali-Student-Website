@@ -64,6 +64,10 @@ svg{
 .card-action a:hover{
   font-weight: bold;
 }
+
+.facebookContact{
+  font-size: 13px !important;
+}
 /*
 .card.medium .card-content{
   overflow-y: scroll !important;
@@ -71,19 +75,27 @@ svg{
 
 .card .card-content{
   padding-top: 5px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
   padding-bottom: : 5px !important;
+  height: 47% !important;
 }
 
 
 
 .card .card-image img{
   display: block;
-  max-width:500px;
-  max-height:500px;
-  width: auto;
+  width: inherit;
+  height: inherit;
+  max-height: 288px;
+  min-height: 288px;
+  /*min-height: 350px;  */
+/*  width: auto;
   height: auto;
+  position: absolute;*/
+}
+.card .card-image{
+  height: 53% !important;
 }
 
 /*.card.small{
@@ -96,11 +108,12 @@ svg{
 }*/
 
 .card.medium{
-  height: 415px !important;
+  height: 430px !important;
 }
 
 .info{
   color: #263238 ;
+  font-size: .9em !important;
 }
 
 /*.aboutUs {

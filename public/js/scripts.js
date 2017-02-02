@@ -11,11 +11,12 @@ $(document).ready(function(){
 
 	$('.slider').slider({
 						full_width: true,
-						height: 500,
+						height: 400,
 						});
 	$('.slider').slider('start');
 
- 
+ 	$(".dropdown-button").dropdown();
+
 	// $(window).scroll(function() {
 		
 	// 	if ($(document).scrollTop() > 50) {

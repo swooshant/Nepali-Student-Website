@@ -7,6 +7,19 @@
      <div class="parallax"><img src="<?= BASE_URL ?>/public/img/nepalParallax.jpg"></div>
 </div>
 
+<div class="fixed-action-btn ">
+    <a class="btn-floating btn-large red tooltipped" data-position="left" data-delay="50" data-tooltip="Contact Us!">
+      <i class="large material-icons">contacts</i>
+    </a>
+    <ul>
+      <li><a href="mailto:nepalVT@gmail.com?subject=Nepali%20Student%20Association%20WebRequest" class="btn-floating red"> <i class="material-icons">email</i></a></li>
+      <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li>
+      <li><a class="btn-floating green"><i class="material-icons">publish</i></a></li>
+      <li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
+    </ul>
+</div>	
+
+
 <div class="aboutUs container">
 	<div class="section">
 		<div class="row">

@@ -26,7 +26,7 @@
 		     <a href="<?= BASE_URL ?>" class="brand-logo flow-text white-text lighten-5" style="margin-left:10px ">Logo</a>
 		     <a href="#" data-activates="mobile" class="button-collapse grey lighten-5 text-darken-4 "><i class="material-icons">menu</i></a>
 		     <ul class="right hide-on-med-and-down ">
-		       <li><a class="white-text lighten-5 " href="<?= BASE_URL ?>/">Home</a></li>
+		       <li><a class="active white-text lighten-5 " href="<?= BASE_URL ?>/">Home</a></li>
 		       <li><a class="white-text lighten-5 " href="<?= BASE_URL ?>/officers">Officers</a></li>
 		       <li><a class="white-text lighten-5 " href="#!">Members</a></li>
 		       <li><a class="white-text lighten-5 " href="<?= BASE_URL ?>/faculty">Faculty Advisor</a></li>
