@@ -1,0 +1,25 @@
+Options -Indexes
+Require all granted
+
+RewriteEngine on
+
+# For custom 404 error page.
+# ErrorDocument 404 /app/controller/error.php
+
+# For redirections
+# Redirect /old_dir/ http://www.yourdomain.com/new_dir/index.html
+
+# Site
+RewriteRule ^$ app/controller/siteController.php?action=home [QSA,L]
+RewriteRule ^about/?$ app/controller/siteController.php?action=about [QSA,L]
+RewriteRule ^executive/?$ app/controller/siteController.php?action=executive [QSA,L]
+RewriteRule ^events/?$ app/controller/siteController.php?action=events [QSA,L]
+RewriteRule ^gallery/?$ app/controller/siteController.php?action=gallery [QSA,L]
+RewriteRule ^members/?$ app/controller/siteController.php?action=members [QSA,L]
+RewriteRule ^visit/?$ app/controller/siteController.php?action=visit [QSA,L]
+
+
+#RewriteRule ^processLogin/?$ app/controller/siteController.php?action=processLogin [QSA,L]
+#RewriteRule ^processLogout/?$ app/controller/siteController.php?action=processLogout [QSA,L]
+#RewriteRule ^processNewsLetter/?$ app/controller/siteController.php?action=processNewsLetter [QSA,L]
+#RewriteRule ^login/?$ app/controller/siteController.php?action=home [QSA,L]
