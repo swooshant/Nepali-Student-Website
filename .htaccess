@@ -1,0 +1,18 @@
+Options -Indexes
+Require all granted
+
+RewriteEngine on
+
+# ErrorDocument 404 /app/controller/error.php
+
+# Site
+RewriteRule ^$ app/controller/siteController.php?action=home [QSA,L]
+RewriteRule ^officers/?$ app/controller/siteController.php?action=officers [QSA,L]
+RewriteRule ^faculty/?$ app/controller/siteController.php?action=faculty [QSA,L]
+#RewriteRule ^processLogin/?$ app/controller/siteController.php?action=processLogin [QSA,L]
+#RewriteRule ^processLogout/?$ app/controller/siteController.php?action=processLogout [QSA,L]
+#RewriteRule ^processNewsLetter/?$ app/controller/siteController.php?action=processNewsLetter [QSA,L]
+#RewriteRule ^login/?$ app/controller/siteController.php?action=home [QSA,L]
+
+
+
