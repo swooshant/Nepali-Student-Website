@@ -34,6 +34,7 @@
 	</div>
 </div>
 
+<<<<<<< HEAD
 
 <br>
 
@@ -89,6 +90,8 @@
 <br>
 
 
+=======
+>>>>>>> 86e18356e42e5677c198041d0dce52fff5be2583
 <div class="section">
   <div class="row">
     <div id="nepalMap" class="container" >
@@ -98,7 +101,10 @@
  </div>
 </div>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 86e18356e42e5677c198041d0dce52fff5be2583
 <script>
 
 	var map = new Datamap({
@@ -154,4 +160,8 @@
       </li>
     </ul>
   </div>
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> 86e18356e42e5677c198041d0dce52fff5be2583
